@@ -1,0 +1,16 @@
+.socialsection {
+    display: grid;
+}
+
+.authorinfo {
+    display: flex;
+}
+
+img {
+    padding-left: 10%;
+    width: 90%;
+}
+
+.avatar {
+    width: 50%;
+}
